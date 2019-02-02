@@ -1,0 +1,6 @@
+[package]
+name = "balance-app-tower"
+version = "0.1.0"
+authors = ["Meredith Finkelstein <meredith@printallover.me>"]
+
+[dependencies]
